@@ -1,2 +1,2 @@
-alert('Usa il pop up per dare dei messaggi');
+alert("Good Morning everybody");
 window.alert('Sto studiando JS');
